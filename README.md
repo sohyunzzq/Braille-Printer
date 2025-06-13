@@ -13,6 +13,17 @@
 5. ⚙️ 핀 HIGH → 솔레노이드 작동 → 점자 돌출  
 6. ✋ 사용자 손끝으로 점자 인식
 
+## 🛠️ 사용 환경 세팅
+- 파이썬에서 아두이노로 정보를 보내기 위해 라이브러리 설치  
+  
+ ```pip install pyserial```
+
+## ✅ 실행 방법
+0. 하드웨어 연결 (아두이노 파일에서 핀 번호 확인 후 필요에 따라 pins 배열 수정) 
+1. 노트북 연결 후 아두이노 파일 업로드 (시리얼 모니터 닫기)
+2. 파이참에서 파이썬 파일 실행 후 문자열 입력
+3. 솔레노이드 작동
+
 ## 🔩 하드웨어
 ![image](https://github.com/user-attachments/assets/07178ada-bafa-47cc-a50a-4bc741d99e6f)
 ![image](https://github.com/user-attachments/assets/780c4e79-0fc2-46d3-b10c-63022de0d02b)
