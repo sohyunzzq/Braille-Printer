@@ -16,7 +16,7 @@
 ---
 
 ## 🛠 사용 기술 및 개발 환경  
-- 언어: Python, C (Arduino)  
+- 언어: Python, C++ (Arduino)  
 - 하드웨어: Arduino UNO   
 - 툴: Arduino IDE, PyCharm, Cura (3D Printing)  
 
