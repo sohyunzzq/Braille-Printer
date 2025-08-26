@@ -30,13 +30,12 @@
 
 ---
 
-## ⚙️ 환경 설정 방법  
+## ⚙️ 환경 설정  
 ### HW
 - Arduino UNO의 Digital Pin 6개와 솔레노이드 연결
+### SW
 - 연결한 Digital Pin 번호에 따라 brai.ino의 pins 배열 수정
 - Arduino에 연결한 포트 번호에 따라 user.py의 PORT 변수 수정
-### SW
-```pip install pyserial```
 
 ---
 
